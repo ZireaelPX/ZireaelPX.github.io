@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://zireaelpx.github.io/</loc>
+
+      <lastmod>2022-02-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://zireaelpx.github.io/space/main.html</loc>
+
+        <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://zireaelpx.github.io/space/news-page.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+
+   <url>
+
+      <loc>https://zireaelpx.github.io/space/news-01.html</loc>
+
+      <priority>0.3</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://zireaelpx.github.io/space/news-02.html</loc>
+
+      <lastmod>2022-02-12</lastmod>
+
+   </url>
+
+</urlset>
